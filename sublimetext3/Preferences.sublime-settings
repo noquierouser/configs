@@ -1,0 +1,31 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/Theme - Eightlime/Eightlime Dark.tmTheme",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"fold_buttons": true,
+	"font_face": "Fantasque Sans Mono",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"mouse_wheel_switches_tabs": false,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Eightlime Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
